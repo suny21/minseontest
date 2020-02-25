@@ -6,6 +6,7 @@ public class newClass {
 		
 
 		System.out.println("kkkkkkkkkkk!");
+		System.out.println("git test!");
 
 	}
 
